@@ -1,0 +1,1 @@
+vless://da805f15-c986-42f1-8f91-587442eef0b7@5.104.80.188:24702?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#SB%20Slow-LQK%20508
