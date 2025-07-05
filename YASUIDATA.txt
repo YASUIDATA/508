@@ -1,2 +1,2 @@
-vless://da805f15-c986-42f1-8f91-587442eef0b7@5.104.80.188:24702?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#SB%20Slow-LQK%20508
-vless://2e6d1ba9-b8c3-4a1b-9b12-5556714f0c76@45.77.9.169:13735?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#Fast%20SB-LQK%20508
+vless://09b88ecc-f94d-413f-8f04-89f6f4ccc9c4@yasuidata.xyz:443?type=tcp&security=reality&pbk=wuLHW9dN_zRMm20SavjO0ytthoDyn3qaypGSF9QrsE0&fp=chrome&sni=www.softbank.jp&sid=981108ad2eb6c6&spx=%2F&flow=xtls-rprx-vision#FAST-508
+vless://29c09f9c-a22f-48e2-86b8-40f0ca7f6b81@v3b.yasuidata.xyz:443?type=tcp&security=reality&pbk=M47txNWsav3pjxSi-W1vEndurOzcsmSn1h9NlEqciXs&fp=chrome&sni=www.softbank.jp&sid=68&spx=%2F&flow=xtls-rprx-vision#FULL%20DUNG%20LUONG-508
